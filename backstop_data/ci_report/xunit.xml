@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-  <testsuite name="BackstopJS" tests="48" failures="28" errors="28" skipped="0">
+  <testsuite name="BackstopJS" tests="48" failures="26" errors="26" skipped="0">
     <testcase classname="document" name=" ›› Sinch Homepage"/>
     <testcase classname="document" name=" ›› Sinch Homepage">
       <failure message="Design deviation ›› Sinch Homepage (document) component"/>
@@ -27,10 +27,7 @@
       <failure message="Design deviation ›› Products (document) component"/>
       <error message="Design deviation ›› Products (document) component"/>
     </testcase>
-    <testcase classname="document" name=" ›› Solutions">
-      <failure message="Design deviation ›› Solutions (document) component"/>
-      <error message="Design deviation ›› Solutions (document) component"/>
-    </testcase>
+    <testcase classname="document" name=" ›› Solutions"/>
     <testcase classname="document" name=" ›› Solutions"/>
     <testcase classname="document" name=" ›› Solutions"/>
     <testcase classname="document" name=" ›› Solutions">
@@ -39,7 +36,10 @@
     </testcase>
     <testcase classname="document" name=" ›› Partners"/>
     <testcase classname="document" name=" ›› Partners"/>
-    <testcase classname="document" name=" ›› Partners"/>
+    <testcase classname="document" name=" ›› Partners">
+      <failure message="Design deviation ›› Partners (document) component"/>
+      <error message="Design deviation ›› Partners (document) component"/>
+    </testcase>
     <testcase classname="document" name=" ›› Partners">
       <failure message="Design deviation ›› Partners (document) component"/>
       <error message="Design deviation ›› Partners (document) component"/>
@@ -47,18 +47,12 @@
     <testcase classname="document" name=" ›› Operators"/>
     <testcase classname="document" name=" ›› Operators"/>
     <testcase classname="document" name=" ›› Operators"/>
-    <testcase classname="document" name=" ›› Operators">
-      <failure message="Design deviation ›› Operators (document) component"/>
-      <error message="Design deviation ›› Operators (document) component"/>
-    </testcase>
+    <testcase classname="document" name=" ›› Operators"/>
     <testcase classname="document" name=" ›› CX Annual report">
       <failure message="Design deviation ›› CX Annual report (document) component"/>
       <error message="Design deviation ›› CX Annual report (document) component"/>
     </testcase>
-    <testcase classname="document" name=" ›› CX Annual report">
-      <failure message="Design deviation ›› CX Annual report (document) component"/>
-      <error message="Design deviation ›› CX Annual report (document) component"/>
-    </testcase>
+    <testcase classname="document" name=" ›› CX Annual report"/>
     <testcase classname="document" name=" ›› CX Annual report"/>
     <testcase classname="document" name=" ›› CX Annual report">
       <failure message="Design deviation ›› CX Annual report (document) component"/>

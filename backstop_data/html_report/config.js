@@ -4,7 +4,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Sinch_Homepage_0_document_0_phone.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Sinch_Homepage_0_document_0_phone.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Sinch_Homepage_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_Sinch_Homepage_0_document_0_phone.png",
         "label": "Sinch Homepage",
@@ -22,7 +22,7 @@ report({
           },
           "rawMisMatchPercentage": 0.022640565093395282,
           "misMatchPercentage": "0.02",
-          "analysisTime": 1688
+          "analysisTime": 1752
         }
       },
       "status": "pass"
@@ -30,7 +30,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Sinch_Homepage_0_document_1_tablet.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Sinch_Homepage_0_document_1_tablet.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Sinch_Homepage_0_document_1_tablet.png",
         "selector": "document",
         "fileName": "backstop_default_Sinch_Homepage_0_document_1_tablet.png",
         "label": "Sinch Homepage",
@@ -48,16 +48,16 @@ report({
           },
           "rawMisMatchPercentage": 6.774548556504156,
           "misMatchPercentage": "6.77",
-          "analysisTime": 2745
+          "analysisTime": 2738
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Sinch_Homepage_0_document_1_tablet.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Sinch_Homepage_0_document_1_tablet.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Sinch_Homepage_0_document_2_Small_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Sinch_Homepage_0_document_2_Small_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Sinch_Homepage_0_document_2_Small_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Sinch_Homepage_0_document_2_Small_desktop.png",
         "label": "Sinch Homepage",
@@ -73,18 +73,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 6.168769127670098,
-          "misMatchPercentage": "6.17",
-          "analysisTime": 2554
+          "rawMisMatchPercentage": 5.423637952586527,
+          "misMatchPercentage": "5.42",
+          "analysisTime": 1881
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Sinch_Homepage_0_document_2_Small_desktop.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Sinch_Homepage_0_document_2_Small_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Sinch_Homepage_0_document_3_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Sinch_Homepage_0_document_3_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Sinch_Homepage_0_document_3_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Sinch_Homepage_0_document_3_desktop.png",
         "label": "Sinch Homepage",
@@ -100,18 +100,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 12.095463936889557,
-          "misMatchPercentage": "12.10",
-          "analysisTime": 1831
+          "rawMisMatchPercentage": 10.504750500876533,
+          "misMatchPercentage": "10.50",
+          "analysisTime": 2856
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Sinch_Homepage_0_document_3_desktop.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Sinch_Homepage_0_document_3_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Products_0_document_0_phone.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Products_0_document_0_phone.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Products_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_Products_0_document_0_phone.png",
         "label": "Products",
@@ -128,7 +128,7 @@ report({
           },
           "rawMisMatchPercentage": 0.03236148076457779,
           "misMatchPercentage": "0.03",
-          "analysisTime": 1417
+          "analysisTime": 3122
         }
       },
       "status": "pass"
@@ -136,7 +136,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Products_0_document_1_tablet.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Products_0_document_1_tablet.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Products_0_document_1_tablet.png",
         "selector": "document",
         "fileName": "backstop_default_Products_0_document_1_tablet.png",
         "label": "Products",
@@ -151,18 +151,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.12942135313375516,
+          "rawMisMatchPercentage": 0.12859748323732176,
           "misMatchPercentage": "0.13",
-          "analysisTime": 2814
+          "analysisTime": 2837
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Products_0_document_1_tablet.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Products_0_document_1_tablet.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Products_0_document_2_Small_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Products_0_document_2_Small_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Products_0_document_2_Small_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Products_0_document_2_Small_desktop.png",
         "label": "Products",
@@ -177,18 +177,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.7218131161336792,
+          "rawMisMatchPercentage": 0.7195555357402771,
           "misMatchPercentage": "0.72",
-          "analysisTime": 2229
+          "analysisTime": 3334
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Products_0_document_2_Small_desktop.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Products_0_document_2_Small_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Products_0_document_3_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Products_0_document_3_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Products_0_document_3_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Products_0_document_3_desktop.png",
         "label": "Products",
@@ -203,18 +203,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 9.119430215066878,
-          "misMatchPercentage": "9.12",
-          "analysisTime": 2765
+          "rawMisMatchPercentage": 19.000318467021724,
+          "misMatchPercentage": "19.00",
+          "analysisTime": 3734
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Products_0_document_3_desktop.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Products_0_document_3_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Solutions_0_document_0_phone.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Solutions_0_document_0_phone.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Solutions_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_Solutions_0_document_0_phone.png",
         "label": "Solutions",
@@ -229,18 +229,17 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.3203275529865125,
-          "misMatchPercentage": "0.32",
-          "analysisTime": 1125
-        },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Solutions_0_document_0_phone.png"
+          "rawMisMatchPercentage": 0.05206326268464997,
+          "misMatchPercentage": "0.05",
+          "analysisTime": 789
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Solutions_0_document_1_tablet.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Solutions_0_document_1_tablet.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Solutions_0_document_1_tablet.png",
         "selector": "document",
         "fileName": "backstop_default_Solutions_0_document_1_tablet.png",
         "label": "Solutions",
@@ -257,7 +256,7 @@ report({
           },
           "rawMisMatchPercentage": 0.023279455986878077,
           "misMatchPercentage": "0.02",
-          "analysisTime": 2019
+          "analysisTime": 2413
         }
       },
       "status": "pass"
@@ -265,7 +264,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Solutions_0_document_2_Small_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Solutions_0_document_2_Small_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Solutions_0_document_2_Small_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Solutions_0_document_2_Small_desktop.png",
         "label": "Solutions",
@@ -282,7 +281,7 @@ report({
           },
           "rawMisMatchPercentage": 0.023687344438617183,
           "misMatchPercentage": "0.02",
-          "analysisTime": 1990
+          "analysisTime": 1915
         }
       },
       "status": "pass"
@@ -290,7 +289,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Solutions_0_document_3_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Solutions_0_document_3_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Solutions_0_document_3_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Solutions_0_document_3_desktop.png",
         "label": "Solutions",
@@ -305,18 +304,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 8.119874093306958,
-          "misMatchPercentage": "8.12",
-          "analysisTime": 2131
+          "rawMisMatchPercentage": 5.720215648697659,
+          "misMatchPercentage": "5.72",
+          "analysisTime": 3754
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Solutions_0_document_3_desktop.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Solutions_0_document_3_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Partners_0_document_0_phone.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Partners_0_document_0_phone.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Partners_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_Partners_0_document_0_phone.png",
         "label": "Partners",
@@ -333,7 +332,7 @@ report({
           },
           "rawMisMatchPercentage": 0.022547631243283416,
           "misMatchPercentage": "0.02",
-          "analysisTime": 1676
+          "analysisTime": 2402
         }
       },
       "status": "pass"
@@ -341,7 +340,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Partners_0_document_1_tablet.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Partners_0_document_1_tablet.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Partners_0_document_1_tablet.png",
         "selector": "document",
         "fileName": "backstop_default_Partners_0_document_1_tablet.png",
         "label": "Partners",
@@ -358,7 +357,7 @@ report({
           },
           "rawMisMatchPercentage": 0.00952097413348533,
           "misMatchPercentage": "0.01",
-          "analysisTime": 2543
+          "analysisTime": 1545
         }
       },
       "status": "pass"
@@ -366,7 +365,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Partners_0_document_2_Small_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Partners_0_document_2_Small_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Partners_0_document_2_Small_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Partners_0_document_2_Small_desktop.png",
         "label": "Partners",
@@ -376,22 +375,23 @@ report({
         "expect": 0,
         "viewportLabel": "Small desktop",
         "diff": {
-          "isSameDimensions": true,
+          "isSameDimensions": false,
           "dimensionDifference": {
             "width": 0,
-            "height": 0
+            "height": 1
           },
-          "rawMisMatchPercentage": 0.010956782083391849,
-          "misMatchPercentage": "0.01",
-          "analysisTime": 2571
-        }
+          "rawMisMatchPercentage": 1.860267423506927,
+          "misMatchPercentage": "1.86",
+          "analysisTime": 2213
+        },
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Partners_0_document_2_Small_desktop.png"
       },
-      "status": "pass"
+      "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Partners_0_document_3_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Partners_0_document_3_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Partners_0_document_3_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Partners_0_document_3_desktop.png",
         "label": "Partners",
@@ -406,18 +406,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 6.026229909576323,
-          "misMatchPercentage": "6.03",
-          "analysisTime": 2775
+          "rawMisMatchPercentage": 10.830130269124473,
+          "misMatchPercentage": "10.83",
+          "analysisTime": 2408
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Partners_0_document_3_desktop.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Partners_0_document_3_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Operators_0_document_0_phone.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Operators_0_document_0_phone.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Operators_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_Operators_0_document_0_phone.png",
         "label": "Operators",
@@ -434,7 +434,7 @@ report({
           },
           "rawMisMatchPercentage": 0.06750298685782558,
           "misMatchPercentage": "0.07",
-          "analysisTime": 1319
+          "analysisTime": 2101
         }
       },
       "status": "pass"
@@ -442,7 +442,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Operators_0_document_1_tablet.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Operators_0_document_1_tablet.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Operators_0_document_1_tablet.png",
         "selector": "document",
         "fileName": "backstop_default_Operators_0_document_1_tablet.png",
         "label": "Operators",
@@ -459,7 +459,7 @@ report({
           },
           "rawMisMatchPercentage": 0.029008815434150396,
           "misMatchPercentage": "0.03",
-          "analysisTime": 1572
+          "analysisTime": 2617
         }
       },
       "status": "pass"
@@ -467,7 +467,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Operators_0_document_2_Small_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Operators_0_document_2_Small_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Operators_0_document_2_Small_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Operators_0_document_2_Small_desktop.png",
         "label": "Operators",
@@ -484,7 +484,7 @@ report({
           },
           "rawMisMatchPercentage": 0.026414130616029236,
           "misMatchPercentage": "0.03",
-          "analysisTime": 1620
+          "analysisTime": 2606
         }
       },
       "status": "pass"
@@ -492,7 +492,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Operators_0_document_3_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Operators_0_document_3_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Operators_0_document_3_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Operators_0_document_3_desktop.png",
         "label": "Operators",
@@ -507,18 +507,17 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 11.310556196150028,
-          "misMatchPercentage": "11.31",
-          "analysisTime": 2532
-        },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Operators_0_document_3_desktop.png"
+          "rawMisMatchPercentage": 0.020519041670670382,
+          "misMatchPercentage": "0.02",
+          "analysisTime": 2381
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_CX_Annual_report_0_document_0_phone.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_CX_Annual_report_0_document_0_phone.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_CX_Annual_report_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_CX_Annual_report_0_document_0_phone.png",
         "label": "CX Annual report",
@@ -533,18 +532,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.12284987883843801,
-          "misMatchPercentage": "0.12",
-          "analysisTime": 1362
+          "rawMisMatchPercentage": 0.21226446324765952,
+          "misMatchPercentage": "0.21",
+          "analysisTime": 2171
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_CX_Annual_report_0_document_0_phone.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_CX_Annual_report_0_document_0_phone.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_CX_Annual_report_0_document_1_tablet.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_CX_Annual_report_0_document_1_tablet.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_CX_Annual_report_0_document_1_tablet.png",
         "selector": "document",
         "fileName": "backstop_default_CX_Annual_report_0_document_1_tablet.png",
         "label": "CX Annual report",
@@ -559,18 +558,17 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.33756216972334474,
-          "misMatchPercentage": "0.34",
-          "analysisTime": 2263
-        },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_CX_Annual_report_0_document_1_tablet.png"
+          "rawMisMatchPercentage": 0.020264523538148033,
+          "misMatchPercentage": "0.02",
+          "analysisTime": 3008
+        }
       },
-      "status": "fail"
+      "status": "pass"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_CX_Annual_report_0_document_2_Small_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_CX_Annual_report_0_document_2_Small_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_CX_Annual_report_0_document_2_Small_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_CX_Annual_report_0_document_2_Small_desktop.png",
         "label": "CX Annual report",
@@ -585,9 +583,9 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.022224837847200293,
-          "misMatchPercentage": "0.02",
-          "analysisTime": 2235
+          "rawMisMatchPercentage": 0.10027891493668592,
+          "misMatchPercentage": "0.10",
+          "analysisTime": 2413
         }
       },
       "status": "pass"
@@ -595,7 +593,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_CX_Annual_report_0_document_3_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_CX_Annual_report_0_document_3_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_CX_Annual_report_0_document_3_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_CX_Annual_report_0_document_3_desktop.png",
         "label": "CX Annual report",
@@ -610,18 +608,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 0.9211931242965197,
-          "misMatchPercentage": "0.92",
-          "analysisTime": 1670
+          "rawMisMatchPercentage": 0.17598640274934638,
+          "misMatchPercentage": "0.18",
+          "analysisTime": 3031
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_CX_Annual_report_0_document_3_desktop.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_CX_Annual_report_0_document_3_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Blog_0_document_0_phone.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Blog_0_document_0_phone.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Blog_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_Blog_0_document_0_phone.png",
         "label": "Blog",
@@ -638,16 +636,16 @@ report({
           },
           "rawMisMatchPercentage": 25.758950439801502,
           "misMatchPercentage": "25.76",
-          "analysisTime": 1831
+          "analysisTime": 2267
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Blog_0_document_0_phone.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Blog_0_document_0_phone.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Blog_0_document_1_tablet.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Blog_0_document_1_tablet.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Blog_0_document_1_tablet.png",
         "selector": "document",
         "fileName": "backstop_default_Blog_0_document_1_tablet.png",
         "label": "Blog",
@@ -664,16 +662,16 @@ report({
           },
           "rawMisMatchPercentage": 23.125540318847683,
           "misMatchPercentage": "23.13",
-          "analysisTime": 1402
+          "analysisTime": 1235
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Blog_0_document_1_tablet.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Blog_0_document_1_tablet.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Blog_0_document_2_Small_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Blog_0_document_2_Small_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Blog_0_document_2_Small_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Blog_0_document_2_Small_desktop.png",
         "label": "Blog",
@@ -690,16 +688,16 @@ report({
           },
           "rawMisMatchPercentage": 21.065151899695547,
           "misMatchPercentage": "21.07",
-          "analysisTime": 1972
+          "analysisTime": 2586
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Blog_0_document_2_Small_desktop.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Blog_0_document_2_Small_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Blog_0_document_3_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Blog_0_document_3_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Blog_0_document_3_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Blog_0_document_3_desktop.png",
         "label": "Blog",
@@ -714,18 +712,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 23.843263327343518,
-          "misMatchPercentage": "23.84",
-          "analysisTime": 2553
+          "rawMisMatchPercentage": 26.79262441349706,
+          "misMatchPercentage": "26.79",
+          "analysisTime": 2781
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Blog_0_document_3_desktop.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Blog_0_document_3_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Customer_stories_0_document_0_phone.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Customer_stories_0_document_0_phone.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Customer_stories_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_Customer_stories_0_document_0_phone.png",
         "label": "Customer stories",
@@ -742,16 +740,16 @@ report({
           },
           "rawMisMatchPercentage": 9.750496031746032,
           "misMatchPercentage": "9.75",
-          "analysisTime": 1348
+          "analysisTime": 932
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Customer_stories_0_document_0_phone.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Customer_stories_0_document_0_phone.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Customer_stories_0_document_1_tablet.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Customer_stories_0_document_1_tablet.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Customer_stories_0_document_1_tablet.png",
         "selector": "document",
         "fileName": "backstop_default_Customer_stories_0_document_1_tablet.png",
         "label": "Customer stories",
@@ -768,16 +766,16 @@ report({
           },
           "rawMisMatchPercentage": 9.78250079415502,
           "misMatchPercentage": "9.78",
-          "analysisTime": 1829
+          "analysisTime": 1263
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Customer_stories_0_document_1_tablet.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Customer_stories_0_document_1_tablet.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Customer_stories_0_document_2_Small_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Customer_stories_0_document_2_Small_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Customer_stories_0_document_2_Small_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Customer_stories_0_document_2_Small_desktop.png",
         "label": "Customer stories",
@@ -794,16 +792,16 @@ report({
           },
           "rawMisMatchPercentage": 6.547124999509387,
           "misMatchPercentage": "6.55",
-          "analysisTime": 1510
+          "analysisTime": 2112
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Customer_stories_0_document_2_Small_desktop.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Customer_stories_0_document_2_Small_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Customer_stories_0_document_3_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Customer_stories_0_document_3_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Customer_stories_0_document_3_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Customer_stories_0_document_3_desktop.png",
         "label": "Customer stories",
@@ -818,18 +816,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 10.796903460837887,
-          "misMatchPercentage": "10.80",
-          "analysisTime": 2087
+          "rawMisMatchPercentage": 5.364181533269045,
+          "misMatchPercentage": "5.36",
+          "analysisTime": 2643
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Customer_stories_0_document_3_desktop.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Customer_stories_0_document_3_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Resources_0_document_0_phone.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Resources_0_document_0_phone.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Resources_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_Resources_0_document_0_phone.png",
         "label": "Resources",
@@ -846,7 +844,7 @@ report({
           },
           "rawMisMatchPercentage": 0.024146073954696035,
           "misMatchPercentage": "0.02",
-          "analysisTime": 1322
+          "analysisTime": 1638
         }
       },
       "status": "pass"
@@ -854,7 +852,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Resources_0_document_1_tablet.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Resources_0_document_1_tablet.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Resources_0_document_1_tablet.png",
         "selector": "document",
         "fileName": "backstop_default_Resources_0_document_1_tablet.png",
         "label": "Resources",
@@ -871,7 +869,7 @@ report({
           },
           "rawMisMatchPercentage": 0.02775007387706856,
           "misMatchPercentage": "0.03",
-          "analysisTime": 1557
+          "analysisTime": 1630
         }
       },
       "status": "pass"
@@ -879,7 +877,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Resources_0_document_2_Small_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Resources_0_document_2_Small_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Resources_0_document_2_Small_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Resources_0_document_2_Small_desktop.png",
         "label": "Resources",
@@ -896,7 +894,7 @@ report({
           },
           "rawMisMatchPercentage": 0.023737082555575217,
           "misMatchPercentage": "0.02",
-          "analysisTime": 1579
+          "analysisTime": 1381
         }
       },
       "status": "pass"
@@ -904,7 +902,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Resources_0_document_3_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Resources_0_document_3_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Resources_0_document_3_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Resources_0_document_3_desktop.png",
         "label": "Resources",
@@ -919,18 +917,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 13.951349226057447,
-          "misMatchPercentage": "13.95",
-          "analysisTime": 2270
+          "rawMisMatchPercentage": 27.610004000772566,
+          "misMatchPercentage": "27.61",
+          "analysisTime": 2755
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Resources_0_document_3_desktop.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Resources_0_document_3_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Upcoming_Events__Webinars_0_document_0_phone.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Upcoming_Events__Webinars_0_document_0_phone.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Upcoming_Events__Webinars_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_Upcoming_Events__Webinars_0_document_0_phone.png",
         "label": "Upcoming Events & Webinars",
@@ -947,16 +945,16 @@ report({
           },
           "rawMisMatchPercentage": 18.87782576242269,
           "misMatchPercentage": "18.88",
-          "analysisTime": 943
+          "analysisTime": 1190
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Upcoming_Events__Webinars_0_document_0_phone.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Upcoming_Events__Webinars_0_document_0_phone.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Upcoming_Events__Webinars_0_document_1_tablet.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Upcoming_Events__Webinars_0_document_1_tablet.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Upcoming_Events__Webinars_0_document_1_tablet.png",
         "selector": "document",
         "fileName": "backstop_default_Upcoming_Events__Webinars_0_document_1_tablet.png",
         "label": "Upcoming Events & Webinars",
@@ -973,16 +971,16 @@ report({
           },
           "rawMisMatchPercentage": 13.615286828593998,
           "misMatchPercentage": "13.62",
-          "analysisTime": 1189
+          "analysisTime": 1537
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Upcoming_Events__Webinars_0_document_1_tablet.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Upcoming_Events__Webinars_0_document_1_tablet.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Upcoming_Events__Webinars_0_document_2_Small_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Upcoming_Events__Webinars_0_document_2_Small_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Upcoming_Events__Webinars_0_document_2_Small_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Upcoming_Events__Webinars_0_document_2_Small_desktop.png",
         "label": "Upcoming Events & Webinars",
@@ -999,16 +997,16 @@ report({
           },
           "rawMisMatchPercentage": 8.292800343430573,
           "misMatchPercentage": "8.29",
-          "analysisTime": 1493
+          "analysisTime": 1480
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Upcoming_Events__Webinars_0_document_2_Small_desktop.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Upcoming_Events__Webinars_0_document_2_Small_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Upcoming_Events__Webinars_0_document_3_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Upcoming_Events__Webinars_0_document_3_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Upcoming_Events__Webinars_0_document_3_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Upcoming_Events__Webinars_0_document_3_desktop.png",
         "label": "Upcoming Events & Webinars",
@@ -1023,18 +1021,18 @@ report({
             "width": 0,
             "height": -1752
           },
-          "rawMisMatchPercentage": 7.046699702351749,
-          "misMatchPercentage": "7.05",
-          "analysisTime": 1812
+          "rawMisMatchPercentage": 12.958635887874923,
+          "misMatchPercentage": "12.96",
+          "analysisTime": 1737
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Upcoming_Events__Webinars_0_document_3_desktop.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Upcoming_Events__Webinars_0_document_3_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_News_0_document_0_phone.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_News_0_document_0_phone.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_News_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_News_0_document_0_phone.png",
         "label": "News",
@@ -1051,7 +1049,7 @@ report({
           },
           "rawMisMatchPercentage": 0.021781284033256302,
           "misMatchPercentage": "0.02",
-          "analysisTime": 1503
+          "analysisTime": 1843
         }
       },
       "status": "pass"
@@ -1059,7 +1057,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_News_0_document_1_tablet.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_News_0_document_1_tablet.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_News_0_document_1_tablet.png",
         "selector": "document",
         "fileName": "backstop_default_News_0_document_1_tablet.png",
         "label": "News",
@@ -1076,7 +1074,7 @@ report({
           },
           "rawMisMatchPercentage": 0.017233713702257528,
           "misMatchPercentage": "0.02",
-          "analysisTime": 1614
+          "analysisTime": 1843
         }
       },
       "status": "pass"
@@ -1084,7 +1082,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_News_0_document_2_Small_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_News_0_document_2_Small_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_News_0_document_2_Small_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_News_0_document_2_Small_desktop.png",
         "label": "News",
@@ -1101,7 +1099,7 @@ report({
           },
           "rawMisMatchPercentage": 0.016901795742573764,
           "misMatchPercentage": "0.02",
-          "analysisTime": 1542
+          "analysisTime": 2007
         }
       },
       "status": "pass"
@@ -1109,7 +1107,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_News_0_document_3_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_News_0_document_3_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_News_0_document_3_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_News_0_document_3_desktop.png",
         "label": "News",
@@ -1124,18 +1122,18 @@ report({
             "width": 0,
             "height": 0
           },
-          "rawMisMatchPercentage": 16.778528872593952,
-          "misMatchPercentage": "16.78",
-          "analysisTime": 1080
+          "rawMisMatchPercentage": 25.06805682859762,
+          "misMatchPercentage": "25.07",
+          "analysisTime": 3424
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_News_0_document_3_desktop.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_News_0_document_3_desktop.png"
       },
       "status": "fail"
     },
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Insights_0_document_0_phone.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Insights_0_document_0_phone.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Insights_0_document_0_phone.png",
         "selector": "document",
         "fileName": "backstop_default_Insights_0_document_0_phone.png",
         "label": "Insights",
@@ -1152,7 +1150,7 @@ report({
           },
           "rawMisMatchPercentage": 0.05491398621169614,
           "misMatchPercentage": "0.05",
-          "analysisTime": 745
+          "analysisTime": 846
         }
       },
       "status": "pass"
@@ -1160,7 +1158,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Insights_0_document_1_tablet.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Insights_0_document_1_tablet.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Insights_0_document_1_tablet.png",
         "selector": "document",
         "fileName": "backstop_default_Insights_0_document_1_tablet.png",
         "label": "Insights",
@@ -1177,7 +1175,7 @@ report({
           },
           "rawMisMatchPercentage": 0.03569162436548223,
           "misMatchPercentage": "0.04",
-          "analysisTime": 1104
+          "analysisTime": 915
         }
       },
       "status": "pass"
@@ -1185,7 +1183,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Insights_0_document_2_Small_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Insights_0_document_2_Small_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Insights_0_document_2_Small_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Insights_0_document_2_Small_desktop.png",
         "label": "Insights",
@@ -1202,7 +1200,7 @@ report({
           },
           "rawMisMatchPercentage": 0.0348317078536335,
           "misMatchPercentage": "0.03",
-          "analysisTime": 1015
+          "analysisTime": 1218
         }
       },
       "status": "pass"
@@ -1210,7 +1208,7 @@ report({
     {
       "pair": {
         "reference": "../bitmaps_reference/backstop_default_Insights_0_document_3_desktop.png",
-        "test": "../bitmaps_test/20220525-203645/backstop_default_Insights_0_document_3_desktop.png",
+        "test": "../bitmaps_test/20220526-122016/backstop_default_Insights_0_document_3_desktop.png",
         "selector": "document",
         "fileName": "backstop_default_Insights_0_document_3_desktop.png",
         "label": "Insights",
@@ -1227,9 +1225,9 @@ report({
           },
           "rawMisMatchPercentage": 0.39301996946816853,
           "misMatchPercentage": "0.39",
-          "analysisTime": 1584
+          "analysisTime": 1803
         },
-        "diffImage": "../bitmaps_test/20220525-203645/failed_diff_backstop_default_Insights_0_document_3_desktop.png"
+        "diffImage": "../bitmaps_test/20220526-122016/failed_diff_backstop_default_Insights_0_document_3_desktop.png"
       },
       "status": "fail"
     }
