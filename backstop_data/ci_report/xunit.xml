@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+  <testsuite name="BackstopJS" tests="48" failures="28" errors="28" skipped="0">
+    <testcase classname="document" name=" ›› Sinch Homepage"/>
+    <testcase classname="document" name=" ›› Sinch Homepage">
+      <failure message="Design deviation ›› Sinch Homepage (document) component"/>
+      <error message="Design deviation ›› Sinch Homepage (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Sinch Homepage">
+      <failure message="Design deviation ›› Sinch Homepage (document) component"/>
+      <error message="Design deviation ›› Sinch Homepage (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Sinch Homepage">
+      <failure message="Design deviation ›› Sinch Homepage (document) component"/>
+      <error message="Design deviation ›› Sinch Homepage (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Products"/>
+    <testcase classname="document" name=" ›› Products">
+      <failure message="Design deviation ›› Products (document) component"/>
+      <error message="Design deviation ›› Products (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Products">
+      <failure message="Design deviation ›› Products (document) component"/>
+      <error message="Design deviation ›› Products (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Products">
+      <failure message="Design deviation ›› Products (document) component"/>
+      <error message="Design deviation ›› Products (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Solutions">
+      <failure message="Design deviation ›› Solutions (document) component"/>
+      <error message="Design deviation ›› Solutions (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Solutions"/>
+    <testcase classname="document" name=" ›› Solutions"/>
+    <testcase classname="document" name=" ›› Solutions">
+      <failure message="Design deviation ›› Solutions (document) component"/>
+      <error message="Design deviation ›› Solutions (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Partners"/>
+    <testcase classname="document" name=" ›› Partners"/>
+    <testcase classname="document" name=" ›› Partners"/>
+    <testcase classname="document" name=" ›› Partners">
+      <failure message="Design deviation ›› Partners (document) component"/>
+      <error message="Design deviation ›› Partners (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Operators"/>
+    <testcase classname="document" name=" ›› Operators"/>
+    <testcase classname="document" name=" ›› Operators"/>
+    <testcase classname="document" name=" ›› Operators">
+      <failure message="Design deviation ›› Operators (document) component"/>
+      <error message="Design deviation ›› Operators (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› CX Annual report">
+      <failure message="Design deviation ›› CX Annual report (document) component"/>
+      <error message="Design deviation ›› CX Annual report (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› CX Annual report">
+      <failure message="Design deviation ›› CX Annual report (document) component"/>
+      <error message="Design deviation ›› CX Annual report (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› CX Annual report"/>
+    <testcase classname="document" name=" ›› CX Annual report">
+      <failure message="Design deviation ›› CX Annual report (document) component"/>
+      <error message="Design deviation ›› CX Annual report (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Blog">
+      <failure message="Design deviation ›› Blog (document) component"/>
+      <error message="Design deviation ›› Blog (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Blog">
+      <failure message="Design deviation ›› Blog (document) component"/>
+      <error message="Design deviation ›› Blog (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Blog">
+      <failure message="Design deviation ›› Blog (document) component"/>
+      <error message="Design deviation ›› Blog (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Blog">
+      <failure message="Design deviation ›› Blog (document) component"/>
+      <error message="Design deviation ›› Blog (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Customer stories">
+      <failure message="Design deviation ›› Customer stories (document) component"/>
+      <error message="Design deviation ›› Customer stories (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Customer stories">
+      <failure message="Design deviation ›› Customer stories (document) component"/>
+      <error message="Design deviation ›› Customer stories (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Customer stories">
+      <failure message="Design deviation ›› Customer stories (document) component"/>
+      <error message="Design deviation ›› Customer stories (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Customer stories">
+      <failure message="Design deviation ›› Customer stories (document) component"/>
+      <error message="Design deviation ›› Customer stories (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Resources"/>
+    <testcase classname="document" name=" ›› Resources"/>
+    <testcase classname="document" name=" ›› Resources"/>
+    <testcase classname="document" name=" ›› Resources">
+      <failure message="Design deviation ›› Resources (document) component"/>
+      <error message="Design deviation ›› Resources (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Upcoming Events &amp; Webinars">
+      <failure message="Design deviation ›› Upcoming Events &amp; Webinars (document) component"/>
+      <error message="Design deviation ›› Upcoming Events &amp; Webinars (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Upcoming Events &amp; Webinars">
+      <failure message="Design deviation ›› Upcoming Events &amp; Webinars (document) component"/>
+      <error message="Design deviation ›› Upcoming Events &amp; Webinars (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Upcoming Events &amp; Webinars">
+      <failure message="Design deviation ›› Upcoming Events &amp; Webinars (document) component"/>
+      <error message="Design deviation ›› Upcoming Events &amp; Webinars (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Upcoming Events &amp; Webinars">
+      <failure message="Design deviation ›› Upcoming Events &amp; Webinars (document) component"/>
+      <error message="Design deviation ›› Upcoming Events &amp; Webinars (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› News"/>
+    <testcase classname="document" name=" ›› News"/>
+    <testcase classname="document" name=" ›› News"/>
+    <testcase classname="document" name=" ›› News">
+      <failure message="Design deviation ›› News (document) component"/>
+      <error message="Design deviation ›› News (document) component"/>
+    </testcase>
+    <testcase classname="document" name=" ›› Insights"/>
+    <testcase classname="document" name=" ›› Insights"/>
+    <testcase classname="document" name=" ›› Insights"/>
+    <testcase classname="document" name=" ›› Insights">
+      <failure message="Design deviation ›› Insights (document) component"/>
+      <error message="Design deviation ›› Insights (document) component"/>
+    </testcase>
+  </testsuite>
+</testsuites>

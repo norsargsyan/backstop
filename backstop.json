@@ -1,0 +1,145 @@
+{
+  "id": "backstop_default",
+  "viewports": [
+    {
+      "label": "phone",
+      "width": 360,
+      "height": 740
+    },
+    {
+      "label": "tablet",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "label": "Small desktop",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "label": "desktop",
+      "width": 1440,
+      "height": 768
+    }
+  ],
+  "onBeforeScript": "puppet/onBefore.js",
+  "onReadyScript": "puppet/onReady.js",
+  "scenarios": [
+    {
+      "label": "Sinch Homepage",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://sinch.com/",
+      "referenceUrl": "https://sinch:3ditSinch@sinchstg.prod.acquia-sites.com/",
+      "readyEvent": "",
+      "readySelector": "",
+      "delay": 3,
+      "hideSelectors": [],
+      "removeSelectors": [],
+      "hoverSelector": "",
+      "clickSelector": "",
+      "postInteractionWait": 0,
+      "selectors": [],
+      "selectorExpansion": true,
+      "expect": 0,
+      "misMatchThreshold": 1,
+      "requireSameDimensions": true
+    },
+    {
+      "label": "Products",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://www.sinch.com/products/",
+      "referenceUrl": "https://sinch:3ditSinch@sinchstg.prod.acquia-sites.com/products/",
+      "delay": 5000
+    },
+    {
+      "label": "Solutions",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://www.sinch.com/solutions/",
+      "referenceUrl": "https://sinch:3ditSinch@sinchstg.prod.acquia-sites.com/solutions/",
+      "delay": 5000
+    },
+    {
+      "label": "Partners",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://www.sinch.com/partners/",
+      "referenceUrl": "https://sinch:3ditSinch@sinchstg.prod.acquia-sites.com/partners/",
+      "delay": 5000
+    },
+    {
+      "label": "Operators",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://www.sinch.com/operators/",
+      "referenceUrl": "https://sinch:3ditSinch@sinchstg.prod.acquia-sites.com/operators/",
+      "delay": 5000
+    },
+    {
+      "label": "CX Annual report",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://www.sinch.com/insights/customer-experience-annual-report/",
+      "referenceUrl": "https://sinch:3ditSinch@sinchstg.prod.acquia-sites.com/insights/customer-experience-annual-report/",
+      "delay": 5000
+    },
+    {
+      "label": "Blog",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://www.sinch.com/blog/",
+      "referenceUrl": "https://sinch:3ditSinch@sinchstg.prod.acquia-sites.com/blog/",
+      "delay": 5000
+    },
+    {
+      "label": "Customer stories",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://www.sinch.com/insights/customer-stories/",
+      "referenceUrl": "https://sinch:3ditSinch@sinchstg.prod.acquia-sites.com/insights/customer-stories/",
+      "delay": 5000
+    },
+    {
+      "label": "Resources",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://www.sinch.com/insights/resources/",
+      "referenceUrl": "https://sinch:3ditSinch@sinchstg.prod.acquia-sites.com/insights/resources/",
+      "delay": 5000
+    },
+    {
+      "label": "Upcoming Events & Webinars",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://www.sinch.com/insights/events/",
+      "referenceUrl": "https://sinch:3ditSinch@sinchstg.prod.acquia-sites.com/insights/events/",
+      "delay": 5000
+    },
+    {
+      "label": "News",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://www.sinch.com/news/",
+      "referenceUrl": "https://sinch:3ditSinch@sinchstg.prod.acquia-sites.com/news/",
+      "delay": 5000
+    },
+    {
+      "label": "Insights",
+      "cookiePath": "backstop_data/engine_scripts/cookies.json",
+      "url": "https://www.sinch.com/insights/",
+      "referenceUrl": "https://sinch:3ditSinch@sinchstg.prod.acquia-sites.com/insights/",
+      "delay": 5000
+    }
+  ],
+  "paths": {
+    "bitmaps_reference": "backstop_data/bitmaps_reference",
+    "bitmaps_test": "backstop_data/bitmaps_test",
+    "engine_scripts": "backstop_data/engine_scripts",
+    "html_report": "backstop_data/html_report",
+    "ci_report": "backstop_data/ci_report"
+  },
+  "report": [
+    "CI"
+  ],
+  "engine": "puppeteer",
+  "engineOptions": {
+    "args": [
+      "--no-sandbox"
+    ]
+  },
+  "asyncCaptureLimit": 5,
+  "asyncCompareLimit": 50,
+  "debug": false,
+  "debugWindow": false
+}

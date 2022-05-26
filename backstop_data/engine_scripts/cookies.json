@@ -1,0 +1,412 @@
+[
+  {
+    "name": "dismissible_message_bar",
+    "value": "11",
+    "domain": "sinchstg.prod.acquia-sites.com",
+    "path": "/",
+    "expires": 1683802423,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "SSESSa6d97cfd12decc1ef757a0bd10a04641",
+    "value": "Euj7wVF7vFBypL9u87a52LeKLYys5HkkvKyvEzxr7CzHncP0",
+    "domain": ".sinchstg.prod.acquia-sites.com",
+    "path": "/",
+    "expires": 1655489204.698461,
+    "httpOnly": true,
+    "secure": true
+  },
+  {
+    "name": "location_is_verified",
+    "value": "1",
+    "domain": ".sinchstg.prod.acquia-sites.com",
+    "path": "/",
+    "expires": 1653575605,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "initialTrafficSource",
+    "value": "utmcsr=(direct)|utmcmd=(none)|utmccn=(not set)",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1711969860,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "visitor_id151751",
+    "value": "586098962",
+    "domain": "www.sinch.com",
+    "path": "/",
+    "expires": 1968822766,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "visitor_id151751-hash",
+    "value": "41f19186dc36ba01c5765ffb109a9ccb3ebd71e9df7a00527372a338bdd480f4efb3abaab872d62e93b08d45a3e5022bdf46a20b",
+    "domain": "www.sinch.com",
+    "path": "/",
+    "expires": 1968822766,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "OptanonAlertBoxClosed",
+    "value": "2022-04-12T11:15:09.846Z",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1681298109,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ajs_user_id",
+    "value": "null",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1684998764,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "ajs_group_id",
+    "value": "null",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1684998764,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "ajs_anonymous_id",
+    "value": "%22dc6c8617-3c5b-418d-b5ee-fa14c20a5e2b%22",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1684998764,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.1.1649762110309.960577764",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1661238765,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gd_visitor",
+    "value": "4031670a-f71d-42a6-8175-7eab4361b0ee",
+    "domain": "www.sinch.com",
+    "path": "/",
+    "expires": 1712834110,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_gd_svisitor",
+    "value": "ec641102134c0000db5e5562db01000002706300",
+    "domain": "www.sinch.com",
+    "path": "/",
+    "expires": 1712834110,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_hjSessionUser_68468",
+    "value": "eyJpZCI6ImZjODI3NmEwLTY0ZTAtNTFkYS04NDJmLTEzMmM0MWMzODM3MyIsImNyZWF0ZWQiOjE2NDk3NjIxMTA0MTAsImV4aXN0aW5nIjp0cnVlfQ==",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1684998764,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_uetvid",
+    "value": "06f6ed80a45f11eca009d7684fd45e91",
+    "domain": "www.sinch.com",
+    "path": "/",
+    "expires": 1687158764,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "ajs_user_id",
+    "value": "null",
+    "domain": "www.sinch.com",
+    "path": "/",
+    "expires": 1681408205,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "ajs_group_id",
+    "value": "null",
+    "domain": "www.sinch.com",
+    "path": "/",
+    "expires": 1681408205,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "ajs_anonymous_id",
+    "value": "%22dc6c8617-3c5b-418d-b5ee-fa14c20a5e2b%22",
+    "domain": "www.sinch.com",
+    "path": "/",
+    "expires": 1681408205,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_hjSessionUser_1592038",
+    "value": "eyJpZCI6ImEyMTk4OTU3LWJkMzktNWM1Mi05OTc3LThhMWIwZWM2M2NkMCIsImNyZWF0ZWQiOjE2NDk4ODA5Nzk2NDAsImV4aXN0aW5nIjp0cnVlfQ==",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1683880632,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "dismissible_message_bar",
+    "value": "11",
+    "domain": "www.sinch.com",
+    "path": "/",
+    "expires": 1681544475,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_gcl_au",
+    "value": "1.1.1220817801.1650223758",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1657999757,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_hjSessionUser_1938993",
+    "value": "eyJpZCI6IjA3NDE4MGM3LWQ2MjItNTdhZS1iNjhkLTM1YjE2N2ZiMmMxYiIsImNyZWF0ZWQiOjE2NTAyMjM3NTg2MzIsImV4aXN0aW5nIjp0cnVlfQ==",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1681888449,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "rdtrk",
+    "value": "%7B%22id%22%3A%22b50cbf17-4285-4295-bb49-d62087a87f27%22%7D",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1681888452,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_hjSessionUser_1592036",
+    "value": "eyJpZCI6IjNiNmZiNzEzLTFkNzktNWQzNi1iYWIxLTcxMmNhMmZiZGE5ZSIsImNyZWF0ZWQiOjE2NTAyODQ2MzcwOTEsImV4aXN0aW5nIjp0cnVlfQ==",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1682607824,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "__trf.src",
+    "value": "encoded_eyJmaXJzdF9zZXNzaW9uIjp7InZhbHVlIjoiKG5vbmUpIiwiZXh0cmFfcGFyYW1zIjp7fX0sImN1cnJlbnRfc2Vzc2lvbiI6eyJ2YWx1ZSI6Iihub25lKSIsImV4dHJhX3BhcmFtcyI6e319LCJjcmVhdGVkX2F0IjoxNjUwMzUyNDUwMTg5fQ==",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1681888450,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "amplitude_id_d10dd8db54b18da0854514169cae763esinch.com",
+    "value": "eyJkZXZpY2VJZCI6IjNlNjJiYWE0LTYyZTktNDAxNy04ZTMzLTE2NTliNzVkNmNjM1IiLCJ1c2VySWQiOm51bGwsIm9wdE91dCI6ZmFsc2UsInNlc3Npb25JZCI6MTY1MjM0NDYzMjQzMCwibGFzdEV2ZW50VGltZSI6MTY1MjM0NDYzMjgwMywiZXZlbnRJZCI6MzEsImlkZW50aWZ5SWQiOjAsInNlcXVlbmNlTnVtYmVyIjozMX0=",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1967704632,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "__utmzzses",
+    "value": "1",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "location_is_verified",
+    "value": "1",
+    "domain": ".www.sinch.com",
+    "path": "/",
+    "expires": 1653549164,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_gid",
+    "value": "GA1.2.451285912.1653285909",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1653549164,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_gd_session",
+    "value": "6ac5118c-5f73-4c4e-8778-c150cf01bfd8",
+    "domain": "www.sinch.com",
+    "path": "/",
+    "expires": 1653472839,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_hjSession_68468",
+    "value": "eyJpZCI6IjFkZWYyN2Y3LTQxZTYtNDE5Ny1hNmI4LWRlZjU1ZTQ3OWNlNCIsImNyZWF0ZWQiOjE2NTM0NTg0Mzk2MjUsImluU2FtcGxlIjp0cnVlfQ==",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1653464564,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_hjAbsoluteSessionInProgress",
+    "value": "0",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1653464564,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_clck",
+    "value": "1ny72me|1|f1r|0",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1684994440,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "__q_state_dp56h9oqwhna9CoL",
+    "value": "eyJ1dWlkIjoiM2Q1OTE5ZTMtZTJmYy00NzAyLWI5MDItMTdmMzY0MGYzNjY1IiwiY29va2llRG9tYWluIjoic2luY2guY29tIn0=",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1968818469,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_an_uid",
+    "value": "6746034829643108161",
+    "domain": "www.sinch.com",
+    "path": "/",
+    "expires": 1654064179,
+    "httpOnly": false,
+    "secure": true
+  },
+  {
+    "name": "_hjIncludedInPageviewSample",
+    "value": "1",
+    "domain": "www.sinch.com",
+    "path": "/",
+    "expires": 1653462884,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_hjIncludedInSessionSample",
+    "value": "1",
+    "domain": "www.sinch.com",
+    "path": "/",
+    "expires": 1653462884,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_C0ZDYNVT1P",
+    "value": "GS1.1.1653458439.74.1.1653462764.0",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1716534764,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.2.1364755160.1649761861",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1716534764,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_gat_UA-131053756-1",
+    "value": "1",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1653462824,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_uetsid",
+    "value": "4ca0cf90da5e11ecb984e3ae4657e539",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1653549164,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "_uetmsclkid",
+    "value": "_uet6e8349abc4b111ec921e14120274a04a",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1661238764,
+    "httpOnly": false,
+    "secure": false
+  },
+  {
+    "name": "OptanonConsent",
+    "value": "isGpcEnabled=0&datestamp=Wed+May+25+2022+11%3A12%3A44+GMT%2B0400+(Armenia+Standard+Time)&version=6.22.0&isIABGlobal=false&hosts=&consentId=4c42a544-322f-4f2d-933d-80b34683d38d&interactionCount=2&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0005%3A1%2CC0004%3A1&AwaitingReconsent=false&geolocation=AM%3BER",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1684998764,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_clsk",
+    "value": "1me8vpy|1653462766737|8|1|i.clarity.ms/collect",
+    "domain": ".sinch.com",
+    "path": "/",
+    "expires": 1653549166,
+    "httpOnly": false,
+    "secure": false
+  }
+]
